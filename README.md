@@ -1,0 +1,1 @@
+In this repository I'm trying to implement DiffEdit paper (https://arxiv.org/abs/2210.11427), which takes in an image and attempts to modify the image using a user prompt. I'm trying to implement it using just the steps described in the paper and also using StableDiffusionInpaintPipeline.
